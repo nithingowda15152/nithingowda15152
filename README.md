@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning DSA<br>👩‍💻 I'm currently urdergoing internship program in QSPIDERS<br>📃 Check out my resume here -<br>💻All of my projects will be available here<br>📞 Reach out to me at- (gowdanithin232@gmail.com) <br><br>
+🌱 I'm currently learning DSA<br>👩‍💻 I'm currently urdergoing internship program in QSPIDERS<br>📃 Check out my resume here -<br>💻All of my projects will be available here<br>📞 Reach out to me at- gowdanithin232@gmail.com <br><br>
 
 
 ## 🌐 Socials:
