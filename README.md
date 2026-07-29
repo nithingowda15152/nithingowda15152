@@ -34,51 +34,11 @@
 
 </div>
 
----
-
-# 💫 About Me
-
-```java
-public class Nithin {
-
-    String role = "Java Full Stack Developer";
-
-    String education =
-            "B.E. Computer Science Engineering";
-
-    String internship =
-            "Java Full Stack Development Intern @ QSpiders";
-
-    String learning[] = {
-            "Data Structures",
-            "Algorithms",
-            "Spring Boot",
-            "Hibernate",
-            "REST APIs",
-            "System Design"
-    };
-
-    String interestedIn[] = {
-            "Software Engineering",
-            "Backend Development",
-            "Java",
-            "Microservices",
-            "Cloud"
-    };
-
-    boolean openToWork = true;
-
-}
-```
-
----
 
 ## 👨‍💻 Professional Summary
 
 I am a passionate **Java Full Stack Developer** with a strong interest in designing scalable software applications and solving real-world problems through clean, efficient code.
-
 Currently undergoing intensive Full Stack Development training at **QSpiders**, where I work with Java, JDBC, Servlets, JSP, Spring Boot, Hibernate, JPA, MySQL, PostgreSQL, Git, and GitHub while strengthening my problem-solving skills through Data Structures and Algorithms.
-
 I enjoy learning modern backend technologies, building practical applications, contributing to projects, and continuously improving my software engineering skills.
 
 ---
@@ -86,19 +46,12 @@ I enjoy learning modern backend technologies, building practical applications, c
 ## 🚀 Open To
 
 ✔ Software Engineer
-
 ✔ Java Developer
-
 ✔ Backend Developer
-
 ✔ Full Stack Developer
-
 ✔ Graduate Software Engineer
-
 ✔ Associate Software Engineer
-
 ✔ Product Engineering Roles
-
 ---
 
 ## 📍 Quick Information
@@ -192,13 +145,6 @@ I enjoy learning modern backend technologies, building practical applications, c
 
 ---
 
-## ☁️ Cloud • DevOps • Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,maven,idea" />
-
-</p>
 
 | Tool | Purpose |
 |------|---------|
@@ -210,20 +156,7 @@ I enjoy learning modern backend technologies, building practical applications, c
 | VS Code | Web Development |
 
 </div>
-
----
-
-# 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|:-------|:-----------:|---------|
-| Prompt Engineering | ⭐⭐⭐⭐☆ | Creating structured prompts for AI tools |
-| Generative AI | ⭐⭐⭐⭐☆ | Google Cloud Generative AI Leader Certified |
-| AI Productivity | ⭐⭐⭐⭐☆ | AI-assisted development workflow |
-| LLM Applications | ⭐⭐⭐☆☆ | Learning practical AI integrations |
-| GitHub Copilot | ⭐⭐⭐☆☆ | AI-assisted coding |
-
----
+-
 
 # 📈 Professional Skills Matrix
 
@@ -256,71 +189,6 @@ I enjoy learning modern backend technologies, building practical applications, c
 # 🎯 Career Objective
 
 To secure a Software Engineer role where I can leverage my Java Full Stack Development skills, contribute to impactful projects, continuously learn modern technologies, and grow into a highly skilled backend and full-stack engineer.
-
----
-# 🚀 Featured Projects
-
----
-
-<details>
-<summary><h2>🏥 Hospital Management System</h2></summary>
-
-
-
-</details>
-
----
-
-<details>
-<summary><h2>👨‍💼 Employee Management System</h2></summary>
-
-</details>
-
----
-
-<details>
-<summary><h2>📚 Online Book Store</h2></summary>
-
-
-</details>
-
----
-
-<details>
-<summary><h2>🌐 Personal Portfolio Website</h2></summary>
-
-### 📌 Overview
-
-A responsive portfolio website showcasing projects, technical skills, certifications, and contact information.
-
-| Feature | Details |
-|---------|---------|
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Deployment** | GitHub Pages |
-| **Performance** | Responsive |
-| **Status** | ✅ Completed |
-| **Repository** | *(Add GitHub Repository Link)* |
-
-### ✨ Features
-
-- Responsive UI
-- Project Showcase
-- Skills Section
-- Contact Form
-- Social Links
-- Smooth Animations
-
-### 📚 Key Learnings
-
-- Responsive Design
-- CSS Flexbox
-- CSS Grid
-- DOM Manipulation
-- UI Design
-
-</details>
-
----
 
 <details>
 <summary><h2>💻 Java DSA Repository</h2></summary>
@@ -393,23 +261,6 @@ Build a comprehensive repository of Java DSA solutions for coding interviews and
 `GitHub`
 `Maven`
 
----
-# 🏆 Achievements
-
-<div align="center">
-
-| 🏅 Recognition | 📄 Details |
-|:--------------|:-----------|
-| 🎓 Computer Science Engineering | Strong foundation in software engineering and programming principles |
-| 💻 Java Full Stack Developer | Skilled in Java, JDBC, Servlets, JSP, Spring Boot, Hibernate & JPA |
-| 📚 DSA Learner | Consistently solving Data Structures & Algorithms problems in Java |
-| 🚀 Open Source Learner | Regularly building and uploading projects on GitHub |
-| 🌱 Continuous Learner | Always exploring modern backend technologies and best practices |
-
-</div>
-
----
-
 # 📜 Certifications
 
 ## 💼 Forage Virtual Experience Programs
@@ -417,18 +268,6 @@ Build a comprehensive repository of Java DSA solutions for coding interviews and
 - ✅ Deloitte Technology Virtual Experience
 
 - ✅ JPMorgan Chase Software Engineering Virtual Experience
-
----
-
-## 🎯 Currently Pursuing
-
-- Advanced Data Structures & Algorithms
-
-- Spring Boot Enterprise Development
-
-- System Design
-
----
 
 # 💻 Coding Profiles
 
@@ -441,36 +280,6 @@ Build a comprehensive repository of Java DSA solutions for coding interviews and
 <a href="https://leetcode.com/u/Nithin_gowda15/">
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nithingowda15152&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithingowda15152&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithingowda15152&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithingowda15152&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -543,49 +352,6 @@ jobs:
 
 ---
 
-# 🎯 Current Focus
-
-```yaml
-current_status:
-
-  learning:
-    - Data Structures & Algorithms
-    - Advanced Java
-    - Spring Boot
-    - Hibernate
-    - PostgreSQL
-    - REST APIs
-    - System Design Fundamentals
-
-  building:
-    - Java Backend Applications
-    - Spring Boot Projects
-    - Employee Management System
-    - Online Book Store
-    - Portfolio Improvements
-
-  exploring:
-    - Microservices
-    - Docker
-    - Cloud Computing
-    - CI/CD
-    - Software Architecture
-
-  goals:
-    - Crack Software Engineer Interviews
-    - Build Production Ready Projects
-    - Contribute to Open Source
-    - Improve DSA Problem Solving
-
-  open_to:
-    - Software Engineer
-    - Java Developer
-    - Backend Developer
-    - Full Stack Developer
-    - Graduate Engineer
-```
-
----
 
 # 🌐 Let's Connect
 
@@ -619,13 +385,10 @@ current_status:
 
 ---
 
-# 💜 Thanks for Visiting
+#  Thanks for Visiting
 
 <div align="center">
 
-### ⭐ *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br>
 
 **If you like my work, consider giving a ⭐ to my repositories!**
 
