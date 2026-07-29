@@ -485,3 +485,154 @@ Build a comprehensive repository of Java DSA solutions for coding interviews and
 </div>
 
 ---
+# 🐍 Contribution Snake
+
+> **Create the following GitHub Actions workflow to enable the snake animation.**
+
+Create:
+
+```
+.github/workflows/snake.yml
+```
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@v3
+
+        with:
+
+          github_user_name: nithingowda15152
+
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake Animation
+
+<img src="https://raw.githubusercontent.com/nithingowda15152/nithingowda15152/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+current_status:
+
+  learning:
+    - Data Structures & Algorithms
+    - Advanced Java
+    - Spring Boot
+    - Hibernate
+    - PostgreSQL
+    - REST APIs
+    - System Design Fundamentals
+
+  building:
+    - Java Backend Applications
+    - Spring Boot Projects
+    - Employee Management System
+    - Online Book Store
+    - Portfolio Improvements
+
+  exploring:
+    - Microservices
+    - Docker
+    - Cloud Computing
+    - CI/CD
+    - Software Architecture
+
+  goals:
+    - Crack Software Engineer Interviews
+    - Build Production Ready Projects
+    - Contribute to Open Source
+    - Improve DSA Problem Solving
+
+  open_to:
+    - Software Engineer
+    - Java Developer
+    - Backend Developer
+    - Full Stack Developer
+    - Graduate Engineer
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:gowdanithin232@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/nithin-gowda100">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/nithingowda15152">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://instagram.com/nithingowda__15">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+# 💜 Thanks for Visiting
+
+<div align="center">
+
+### ⭐ *"First, solve the problem. Then, write the code."* — John Johnson
+
+<br>
+
+**If you like my work, consider giving a ⭐ to my repositories!**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6C63FF,50:7B68EE,100:8A2BE2"/>
+
+</div>
+
+---
