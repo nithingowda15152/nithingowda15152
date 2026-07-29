@@ -245,18 +245,243 @@ I enjoy learning modern backend technologies, building practical applications, c
 # 📚 Currently Learning
 
 - Advanced Java
-- Spring Boot
-- Hibernate
 - REST API Development
 - PostgreSQL
-- Data Structures & Algorithms
+- System Design
 - System Design Fundamentals
-- Microservices (Beginner)
+- Microservices
 
 ---
 
 # 🎯 Career Objective
 
 To secure a Software Engineer role where I can leverage my Java Full Stack Development skills, contribute to impactful projects, continuously learn modern technologies, and grow into a highly skilled backend and full-stack engineer.
+
+---
+# 🚀 Featured Projects
+
+---
+
+<details>
+<summary><h2>🏥 Hospital Management System</h2></summary>
+
+
+
+</details>
+
+---
+
+<details>
+<summary><h2>👨‍💼 Employee Management System</h2></summary>
+
+</details>
+
+---
+
+<details>
+<summary><h2>📚 Online Book Store</h2></summary>
+
+
+</details>
+
+---
+
+<details>
+<summary><h2>🌐 Personal Portfolio Website</h2></summary>
+
+### 📌 Overview
+
+A responsive portfolio website showcasing projects, technical skills, certifications, and contact information.
+
+| Feature | Details |
+|---------|---------|
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Deployment** | GitHub Pages |
+| **Performance** | Responsive |
+| **Status** | ✅ Completed |
+| **Repository** | *(Add GitHub Repository Link)* |
+
+### ✨ Features
+
+- Responsive UI
+- Project Showcase
+- Skills Section
+- Contact Form
+- Social Links
+- Smooth Animations
+
+### 📚 Key Learnings
+
+- Responsive Design
+- CSS Flexbox
+- CSS Grid
+- DOM Manipulation
+- UI Design
+
+</details>
+
+---
+
+<details>
+<summary><h2>💻 Java DSA Repository</h2></summary>
+
+### 📌 Overview
+
+A GitHub repository dedicated to Data Structures and Algorithms practice, containing Java solutions for coding problems and interview preparation.
+
+| Feature | Details |
+|---------|---------|
+| **Language** | Java |
+| **Topics** | Arrays, Strings, Linked List, Stack, Queue, Trees |
+| **Platform** | GitHub |
+| **Status** | 🚀 Active |
+| **Repository** | https://github.com/nithingowda15152 |
+
+### ✨ Topics Covered
+
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Linked Lists
+- Stack
+- Queue
+- Binary Trees
+- Recursion
+- HashMap
+- Java Collections
+
+### 📚 Goal
+
+Build a comprehensive repository of Java DSA solutions for coding interviews and continuous learning.
+
+</details>
+
+---
+
+# 💼 Professional Experience
+
+## 👨‍💻 Java Full Stack Development Intern
+
+### QSpiders
+
+**Duration:** 6 Months(Completed)
+
+### Responsibilities
+
+- Developed Java applications using Core Java concepts.
+- Build CRUD applications with JDBC and MySQL.
+- Learn and implement Servlets and JSP.
+- Develop enterprise applications using Spring Boot and Hibernate.
+- Work with PostgreSQL databases.
+- Practice Git and GitHub for version control.
+- Solve Data Structures and Algorithms problems in Java.
+
+### Skills Acquired
+
+`Java`
+`JDBC`
+`Servlets`
+`JSP`
+`Spring`
+`Spring Boot`
+`Hibernate`
+`JPA`
+`MySQL`
+`PostgreSQL`
+`Git`
+`GitHub`
+`Maven`
+
+---
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Recognition | 📄 Details |
+|:--------------|:-----------|
+| 🎓 Computer Science Engineering | Strong foundation in software engineering and programming principles |
+| 💻 Java Full Stack Developer | Skilled in Java, JDBC, Servlets, JSP, Spring Boot, Hibernate & JPA |
+| 📚 DSA Learner | Consistently solving Data Structures & Algorithms problems in Java |
+| 🚀 Open Source Learner | Regularly building and uploading projects on GitHub |
+| 🌱 Continuous Learner | Always exploring modern backend technologies and best practices |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+## 💼 Forage Virtual Experience Programs
+
+- ✅ Deloitte Technology Virtual Experience
+
+- ✅ JPMorgan Chase Software Engineering Virtual Experience
+
+---
+
+## 🎯 Currently Pursuing
+
+- Advanced Data Structures & Algorithms
+
+- Spring Boot Enterprise Development
+
+- System Design
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/nithingowda15152">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Nithin_gowda15/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nithingowda15152&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithingowda15152&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithingowda15152&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nithingowda15152&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithingowda15152&theme=tokyo-night"/>
+
+</div>
 
 ---
