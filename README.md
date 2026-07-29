@@ -124,3 +124,139 @@ I enjoy learning modern backend technologies, building practical applications, c
 </div>
 
 ---
+# 💻 Tech Stack
+
+<div align="center">
+
+## 🖥️ Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+
+</p>
+
+| Technology | Proficiency |
+|------------|-------------|
+| HTML5 | ⭐⭐⭐⭐⭐ |
+| CSS3 | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐⭐☆ |
+| Bootstrap | ⭐⭐⭐⭐☆ |
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+
+</p>
+
+| Technology | Experience |
+|------------|------------|
+| Java | Advanced |
+| JDBC | Advanced |
+| Servlets | Advanced |
+| JSP | Intermediate |
+| Spring Framework | Intermediate |
+| Spring Boot | Intermediate |
+| Hibernate | Intermediate |
+| JPA | Intermediate |
+| REST APIs | Learning |
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+</p>
+
+| Database | Usage |
+|----------|-------|
+| MySQL | CRUD Applications |
+| PostgreSQL | Spring Boot Projects |
+
+---
+
+## ☁️ Cloud • DevOps • Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,maven,idea" />
+
+</p>
+
+| Tool | Purpose |
+|------|---------|
+| Git | Version Control |
+| GitHub | Repository Management |
+| Maven | Dependency Management |
+| Eclipse | Java Development |
+| IntelliJ IDEA | Spring Development |
+| VS Code | Web Development |
+
+</div>
+
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|:-------|:-----------:|---------|
+| Prompt Engineering | ⭐⭐⭐⭐☆ | Creating structured prompts for AI tools |
+| Generative AI | ⭐⭐⭐⭐☆ | Google Cloud Generative AI Leader Certified |
+| AI Productivity | ⭐⭐⭐⭐☆ | AI-assisted development workflow |
+| LLM Applications | ⭐⭐⭐☆☆ | Learning practical AI integrations |
+| GitHub Copilot | ⭐⭐⭐☆☆ | AI-assisted coding |
+
+---
+
+# 📈 Professional Skills Matrix
+
+| Category | Skills |
+|-----------|--------|
+| Programming | Java, JavaScript |
+| Web Technologies | HTML5, CSS3, Bootstrap |
+| Backend | JDBC, Servlets, JSP, Spring, Spring Boot |
+| ORM | Hibernate, JPA |
+| Databases | MySQL, PostgreSQL |
+| Version Control | Git, GitHub |
+| Build Tools | Maven |
+| IDEs | Eclipse, IntelliJ IDEA, VS Code |
+| Problem Solving | Data Structures & Algorithms |
+| Soft Skills | Communication, Teamwork, Adaptability, Continuous Learning |
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- Hibernate
+- REST API Development
+- PostgreSQL
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Microservices (Beginner)
+
+---
+
+# 🎯 Career Objective
+
+To secure a Software Engineer role where I can leverage my Java Full Stack Development skills, contribute to impactful projects, continuously learn modern technologies, and grow into a highly skilled backend and full-stack engineer.
+
+---
