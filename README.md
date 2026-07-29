@@ -1,18 +1,86 @@
-# 💫 About Me:
-🌱 I'm currently learning DSA<br>👩‍💻 I'm currently undergoing internship program in QSPIDERS<br>📃 Check out my resume here - MyResume<br>💻All of my projects will be available here<br>📞 Reach out to me at- gowdanithin232@gmail.com <br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithingowda__15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-gowda100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowdanithin232@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nithingowda15152&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nithingowda15152&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithingowda15152&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+👋 Hi, I'm Nithin K V
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Nithin%20K%20V&fontSize=45&fontColor=ffffff"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Java+Full+Stack+Developer;DSA+Learner;Open+to+Software+Engineering+Roles&center=true&width=700&height=45"/>
+</p>
+<p align="center">
+<a href="mailto:gowdanithin232@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nithin-gowda100"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/nithingowda15152"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+</p>
 ---
-[![](https://visitcount.itsvg.in/api?id=nithingowda15152&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💫 About Me
+🎓 Computer Science Engineering Graduate
+👨‍💻 Java Full Stack Development Intern at QSpiders
+🌱 Learning DSA, Spring Boot, Hibernate
+💼 Looking for Software Developer roles
+💻 Tech Stack
+![Java](https://skillicons.dev/icons?i=java,html,css,js,mysql,postgres,git,github,spring,hibernate,maven,vscode)
+---
+🚀 Featured Projects
+<details>
+<summary><b>Employee Management System</b></summary>
+Java + JDBC + MySQL CRUD application.
+</details>
+<details>
+<summary><b>Hospital Management System</b></summary>
+Core Java project demonstrating OOP concepts.
+</details>
+<details>
+<summary><b>Online Book Store</b></summary>
+Spring Boot + Hibernate + REST APIs.
+</details>
+<details>
+<summary><b>Portfolio Website</b></summary>
+Responsive HTML/CSS/JS portfolio.
+</details>
+---
+💼 Experience
+QSpiders – Java Full Stack Development Intern
+Java, JDBC, Servlets, JSP
+Spring Boot & Hibernate
+SQL & PostgreSQL
+Git & GitHub
+---
+🏆 Certifications
+Google Cloud Generative AI Leader
+UiPath Automation Developer Training
+Deloitte Forage
+JPMorgan Chase Forage
+Citi Forage
+---
+📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=nithingowda15152&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nithingowda15152&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nithingowda15152&layout=compact&theme=tokyonight)
+![](https://github-readme-activity-graph.vercel.app/graph?username=nithingowda15152&theme=tokyo-night)
+---
+🐍 Contribution Snake
+```text
+Configure with Platane/snk GitHub Action after pushing.
+```
+🎯 Current Focus
+```yaml
+learning:
+  - DSA
+  - Spring Boot
+building:
+  - Java Projects
+exploring:
+  - System Design
+open_to:
+  - Software Engineer Roles
+```
+---
+🌐 Connect
+GitHub: https://github.com/nithingowda15152
+LinkedIn: https://linkedin.com/in/nithin-gowda100
+Instagram: https://instagram.com/nithingowda__15
+Email: gowdanithin232@gmail.com
+---
+> "Code with consistency. Learn continuously. Build impact."
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+</p>
