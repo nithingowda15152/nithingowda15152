@@ -190,8 +190,6 @@ I enjoy learning modern backend technologies, building practical applications, c
 
 To secure a Software Engineer role where I can leverage my Java Full Stack Development skills, contribute to impactful projects, continuously learn modern technologies, and grow into a highly skilled backend and full-stack engineer.
 
-<details>
-<summary><h2>💻 Java DSA Repository</h2></summary>
 
 ### 📌 Overview
 
