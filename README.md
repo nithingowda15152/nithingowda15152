@@ -291,13 +291,4 @@ Build a comprehensive repository of Java DSA solutions for coding interviews and
 
 </div>
 
----
-# 🐍 Contribution Snake
 
-> **Create the following GitHub Actions workflow to enable the snake animation.**
-
-Create:
-
-  
-
-<div align="center">
