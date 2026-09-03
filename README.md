@@ -24,5 +24,5 @@ Hi there, I'm Nithin 👋
 
 ### Reach Me
 ✉️ Email: [gowdanithin232@gmail.com](mailto:gowdanithin232@gmail.com)
-💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/nithin-gowda100)
+💼 LinkedIn: [NithinGowda](https://www.linkedin.com/in/nithin-gowda100)
 📍 Based in Bangalore, Karnataka
