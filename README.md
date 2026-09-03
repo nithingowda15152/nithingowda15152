@@ -1,37 +1,32 @@
-<p align= "center">
-    <img width="600px" alt="quote" src="img/quote.svg" />
-</p>
+Hi there, I'm Nithin 👋
 
-# Hi there, I'm Nithin.
+🎓 Computer Science Engineering graduate (VTU Belagavi, 2022–2026)
+💻 Full-stack developer building with Java, Spring Boot, and MySQL
+📱 Also into Flutter & Android — shipping on-device ML apps
+🧠 Strong fundamentals in DSA, OOP, DBMS, OS & Computer Networks
+🌱 Currently learning React.js, Docker, and REST API design patterns
+🚀 Looking for entry-level Full Stack Developer roles in Bangalore
 
-<img width="128px" align="right" alt="" src="https://raofin.github.io/r/img/wave.gif" />
-🎓 Graduate student in CSE <br>
-💻 Enthusiastic about programming  <br>
-🧠 Fluent in JAVA, SQL, JavaScript, and CSS <br>
-🚀 Dedicated to improving programming skills every day <br>
+### Toolbox
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Toolbox
+### Featured Projects
+- 📲 **SMS Smishing Detection App** — Flutter + TensorFlow Lite Android app that classifies smishing/spam SMS on-device in real time (87% validation accuracy, <40ms inference)
+- 🏥 **Hospital Management System** — Java + MySQL desktop app with role-based access, normalized 8-table schema, and SQL triggers for data integrity
 
-<p align="center">
-<img src="img/python.svg" alt="Python" height="48px" />&nbsp;
-<img src="img/javascript.svg" alt="JavaScript" height="48px" />&nbsp;
-<img src="img/jquery.svg" alt="jQuery" height="48px" />&nbsp;
-<img src="img/tailwind-css.svg" alt="Tailwind CSS" height="48px" />&nbsp;
-<img src="img/java.svg" alt="Java" height="48px" />&nbsp;
-<img src="img/spring.svg" alt="Spring" height="48px" />&nbsp;
-<img src="img/html.svg" alt="HTML" height="48px" />&nbsp;
-<img src="img/css.svg" alt="CSS" height="48px" />&nbsp;
-<img src="img/bootstrap.svg" alt="Bootstrap" height="48px" />&nbsp;
-<img src="img/docker.svg" alt="Docker" height="48px" />&nbsp;
-<img src="img/git.svg" alt="Git" height="48px" />&nbsp;
-<img src="img/github.svg" alt="GitHub" height="48px" />&nbsp;
-<img src="img/mssql.svg" alt="MSSQL" height="48px" />&nbsp;
-<img src="img/visual-studio.svg" alt="Visual Studio" height="48px" />&nbsp;
-<img src="img/vscode.svg" alt="VS Code" height="48px" />&nbsp;
-</p>
+### GitHub Stats
+![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithingowda15152&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithingowda15152&layout=compact)
 
-## Reach Me
-
-🌐 **Website:** [https://nithin-kv-portfolio.vercel.app/) <br>
-✉️ **Email:** gowdanithin232@gmail.com <br>
-💼 **LinkedIn:** [in/Nithin](https://www.linkedin.com/in/nithin-gowda100) <br>
+### Reach Me
+✉️ Email: [gowdanithin232@gmail.com](mailto:gowdanithin232@gmail.com)
+💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/nithin-gowda100)
+📍 Based in Bangalore, Karnataka
