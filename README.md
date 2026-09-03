@@ -22,10 +22,6 @@ Hi there, I'm Nithin 👋
 - 📲 **SMS Smishing Detection App** — Flutter + TensorFlow Lite Android app that classifies smishing/spam SMS on-device in real time (87% validation accuracy, <40ms inference)
 - 🏥 **Hospital Management System** — Java + MySQL desktop app with role-based access, normalized 8-table schema, and SQL triggers for data integrity
 
-### GitHub Stats
-![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithingowda15152&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithingowda15152&layout=compact)
-
 ### Reach Me
 ✉️ Email: [gowdanithin232@gmail.com](mailto:gowdanithin232@gmail.com)
 💼 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/nithin-gowda100)
